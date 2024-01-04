@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-27T21:37:46 EET" name="Default suite" finished-at="2023-12-27T21:37:50 EET" duration-ms="4466">
+    <groups>
+    </groups>
+    <test started-at="2023-12-27T21:37:46 EET" name="Default test" finished-at="2023-12-27T21:37:50 EET" duration-ms="4466">
+      <class name="com.qa.NavaigateToWebpage.LandingPage">
+        <test-method signature="navigateToWebpage()[pri:0, instance:com.qa.NavaigateToWebpage.LandingPage@272113c4]" started-at="2023-12-27T21:37:46 EET" name="navigateToWebpage" finished-at="2023-12-27T21:37:50 EET" duration-ms="4439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToWebpage -->
+      </class> <!-- com.qa.NavaigateToWebpage.LandingPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
